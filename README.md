@@ -1,2 +1,3 @@
-# FlutterReduxTemplate
- Jake's flutter redux template.
+# redux_template
+
+A new Flutter project.
